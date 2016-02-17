@@ -1,0 +1,39 @@
+
+**How is the staging area different from the working directory and the repository? What value do you think it offers?**
+
+# Working directory: where you make changes
+# Staging: where you’re pretty sure, and ready to commit.
+# Repo: Contains the working directory? 
+
+
+**How can you use the staging area to make sure you have one commit per logical change?**
+# git diff
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+# Experiments
+# Different versions for different people? 
+# Localization 
+# Working on new features. Context switch.
+
+
+How do the diagrams help you visualize the branch structure?
+# Figure out reachability. 
+# Which branches to merge.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+# Resolve what code to include. 
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+# +Fast
+# -Mistaken assumptions
+
+
+
+
+
+
+
+
+
